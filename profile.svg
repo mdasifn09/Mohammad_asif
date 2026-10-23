@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="Mohammad Asif Profile Illustration">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#1e3a8a"/>
+      <stop offset="100%" stop-color="#0284c7"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+  </defs>
+  <rect width="360" height="360" rx="48" fill="url(#bgGrad)"/>
+  <circle cx="295" cy="65" r="42" fill="#38bdf8" opacity="0.14"/>
+  <circle cx="55" cy="295" r="58" fill="#818cf8" opacity="0.14"/>
+  <!-- Laptop / Code Window Graphic -->
+  <rect x="48" y="54" width="264" height="172" rx="14" fill="#0f172a" stroke="#38bdf8" stroke-width="2.5" opacity="0.95"/>
+  <circle cx="68" cy="72" r="5" fill="#f43f5e"/>
+  <circle cx="84" cy="72" r="5" fill="#f59e0b"/>
+  <circle cx="100" cy="72" r="5" fill="#10b981"/>
+  <line x1="48" y1="88" x2="312" y2="88" stroke="#1e293b" stroke-width="2"/>
+  <!-- Code lines -->
+  <rect x="68" y="106" width="76" height="10" rx="5" fill="#38bdf8"/>
+  <rect x="152" y="106" width="96" height="10" rx="5" fill="#94a3b8" opacity="0.5"/>
+  <rect x="84" y="126" width="140" height="10" rx="5" fill="#818cf8"/>
+  <rect x="84" y="146" width="110" height="10" rx="5" fill="#34d399"/>
+  <rect x="202" y="146" width="68" height="10" rx="5" fill="#f472b6" opacity="0.8"/>
+  <rect x="84" y="166" width="160" height="10" rx="5" fill="#94a3b8" opacity="0.45"/>
+  <rect x="68" y="186" width="64" height="10" rx="5" fill="#38bdf8"/>
+  <!-- Badge / Avatar Monogram -->
+  <circle cx="180" cy="252" r="54" fill="#0f172a" stroke="url(#accentGrad)" stroke-width="4"/>
+  <text x="180" y="266" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="38" font-weight="800" fill="#f8fafc" letter-spacing="1.5">MA</text>
+  <!-- Bottom Pill -->
+  <rect x="92" y="316" width="176" height="28" rx="14" fill="#1e293b" stroke="#38bdf8" stroke-width="1.5"/>
+  <text x="180" y="334" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="700" fill="#38bdf8" letter-spacing="1.2">BCA STUDENT • WEB DEV</text>
+</svg>
